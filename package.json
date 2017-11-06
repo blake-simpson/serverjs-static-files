@@ -1,0 +1,13 @@
+{
+  "name": "serverjs-static-files",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Blake Simpson",
+  "license": "MIT",
+  "scripts": {
+    "start": "server.js"
+  },
+  "dependencies": {
+    "server": "^1.0.1"
+  }
+}
